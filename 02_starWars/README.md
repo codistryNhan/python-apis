@@ -19,4 +19,4 @@ After receiving a json response from the endpoint,
 ![alt text](starwars_1.png)
 
 2. Getting the requested data and outputting it
-![alt text](starwars_2.png
+![alt text](starwars_2.png)
